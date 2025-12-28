@@ -68,7 +68,7 @@ ul li i {
   cursor: pointer;
 }
 ul li i:hover {
-  color: rgb(116, 7, 7);
+  color: rgb(255, 0, 0);
   transform: scale(1.3);
 
 }
